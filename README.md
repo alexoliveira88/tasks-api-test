@@ -1,1 +1,1 @@
-testes de API java para uso no CI/CD
+testes de API java para uso na esteira de deploy.
